@@ -15,12 +15,12 @@ public class PrintPatterns {
 		System.out.println("______________________________");
 		System.out.println("TOTAL:\t12\t$4,400.00");
 		
-		String message1, message2;
-	    
-	    message1 = "\\/\\/\\/\\/\\/\r\t\b";
-	    message2 = "\"";
-	    
-	    System.out.println(message1 + message2);
+		 String message1, message2;
+	        
+	        message1 = "message1 = \\/\\/\\/\\/\\/\\r\\t\\b\n";
+	        message2 = "message2 = \"";
+	        
+	        System.out.println(message1 + message2);
 	}
 
 }
